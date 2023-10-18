@@ -82,10 +82,10 @@
                         <tr>
 
 
-                            <th scope="col">Fecha</th>
-                            <th scope="col">Hora</th>
-                            <th scope="col">Estatus</th>
-                            <th scope="col">Comentario</th>
+                            <th scope="col">FECHA</th>
+                            <th scope="col">HORA</th>
+                            <th scope="col">ESTATUS</th>
+                            <th scope="col">COMENTARIO</th>
                         </tr>
                     </thead>
                     <tbody class="table-group-divider" id="resultado_asistencia">
